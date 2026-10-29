@@ -11,7 +11,7 @@ CostBase Pro (Beta v1.0.0) is a smart engineering and financial intelligence pla
 
 Unlike traditional spreadsheets that suffer from silent formula drift and disconnected file versions across estimating, procurement, and accounting teams, CostBase Pro acts as an automated Financial & Engineering Guardrail across the entire project lifecycle.
 
-#🎯 Why CostBase Pro Instead of Spreadsheets?
+# Why CostBase Pro Instead of Spreadsheets? 🎯
 
 Write-Once Site-to-IPC Guardrail:
 Site progress quantities are recorded once (e.g., $420\text{ m}^3$ of reinforced concrete on BOQ item 03.02.01). The engine automatically updates the Owner Interim Payment Certificate (IPC), generates the draft tax invoice, and hard-caps the Subcontractor IPC at $420\text{ m}^3$—blocking unapproved Variation Orders (VOs) and preventing overpayment drift.
