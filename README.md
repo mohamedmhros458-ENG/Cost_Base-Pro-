@@ -5,13 +5,13 @@ CostBase Pro (Beta v1.0.0) — by Lucid Cost Solutions
 
 Smart Solutions for Construction Cost & Project Management
 
-📖 Overview
+#📖 Overview
 
 CostBase Pro (Beta v1.0.0) is a smart engineering and financial intelligence platform that converts Bills of Quantities (PDF, scanned images, and Excel) into a standardized 10-bucket execution budget—revealing project funding gaps before contract signing in 2 hours instead of 10 days. We deliver a customizable pricing and cost control system that seamlessly links the construction site to the technical office, protecting your liquidity and profit margins from day one through project closeout.
 
 Unlike traditional spreadsheets that suffer from silent formula drift and disconnected file versions across estimating, procurement, and accounting teams, CostBase Pro acts as an automated Financial & Engineering Guardrail across the entire project lifecycle.
 
-🎯 Why CostBase Pro Instead of Spreadsheets?
+#🎯 Why CostBase Pro Instead of Spreadsheets?
 
 Write-Once Site-to-IPC Guardrail:
 Site progress quantities are recorded once (e.g., $420\text{ m}^3$ of reinforced concrete on BOQ item 03.02.01). The engine automatically updates the Owner Interim Payment Certificate (IPC), generates the draft tax invoice, and hard-caps the Subcontractor IPC at $420\text{ m}^3$—blocking unapproved Variation Orders (VOs) and preventing overpayment drift.
@@ -33,7 +33,8 @@ Automatically generates hierarchical resource cost codes (CostId) and maps price
 
 # You can Find & Download the Full Version on this MediaFire Link : 
 https://www.mediafire.com/file/u6q2de0h4g4qilp/CostBasePro-Setup-1.0.0-x64.exe/file
-⚙️ Core Engineering Architecture
+
+#⚙️ Core Engineering Architecture
 
 1. Pre-Tender Estimation & AI/OCR Intelligence
 
@@ -149,7 +150,7 @@ Foreman Voice/Message Parser: Extracts daily output, crew variance, stockout war
 
 07:00 AM Executive Decision Brief: Automated morning digest highlighting the top 3 actionable cost, schedule, and equipment risks.
 
-🛠️ Technical Stack
+#🛠️ Technical Stack
 
 Layer
 
@@ -179,7 +180,7 @@ Licensing
 
 Cryptographic Machine-Bound Hardware Licensing (license.lic / Activation Keys)
 
-🚀 Build, Verify & Publish
+#🚀 Build, Verify & Publish
 
 The project supports deterministic Offline Sandbox Builds using the local NuGet cache:
 
@@ -192,7 +193,7 @@ dotnet run --project CostBase_Pro.csproj --no-build -- --verify-all
 # 3. Publish Self-Contained Production Release (win-x64)
 dotnet publish CostBase_Pro.csproj -c Release -r win-x64 --no-restore -p:OfflineBuild=true
 
-🔒 Proprietary License & Patent Pending Notice
+#🔒 Proprietary License & Patent Pending Notice
 
 Copyright © 2026 Lucid Cost Solutions (Mohammed Mahrous & Mahmoud Mahrous). All Rights Reserved.
 
