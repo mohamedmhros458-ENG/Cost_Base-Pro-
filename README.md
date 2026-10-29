@@ -34,7 +34,7 @@ Automatically generates hierarchical resource cost codes (CostId) and maps price
 # You can find & download the Full Version on this MediaFire Link : 
 https://www.mediafire.com/file/u6q2de0h4g4qilp/CostBasePro-Setup-1.0.0-x64.exe/file
 # You Can Sign Yourself in our Form to get the Activation Key : 
-https://docs.google.com/forms/d/e/1FAIpQLSdrNvnr9KWAs4KhZuII66dn81QC4Xc2L--pXX1ayzb5X6Kqtw/viewform?usp=publish-editor
+https://docs.google.com/forms/d/e/1FAIpQLSdrNvnr9KWAs4KhZuII66dn81QC4Xc2L--pXX1ayzb5X6Kqtw/viewform?usp=dialog
 
 #⚙️ Core Engineering Architecture
 
