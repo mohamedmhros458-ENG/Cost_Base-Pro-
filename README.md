@@ -5,7 +5,7 @@ CostBase Pro (Beta v1.0.0) — by Lucid Cost Solutions
 
 Smart Solutions for Construction Cost & Project Management
 
-#📖 Overview
+# Overview
 
 CostBase Pro (Beta v1.0.0) is a smart engineering and financial intelligence platform that converts Bills of Quantities (PDF, scanned images, and Excel) into a standardized 10-bucket execution budget—revealing project funding gaps before contract signing in 2 hours instead of 10 days. We deliver a customizable pricing and cost control system that seamlessly links the construction site to the technical office, protecting your liquidity and profit margins from day one through project closeout.
 
