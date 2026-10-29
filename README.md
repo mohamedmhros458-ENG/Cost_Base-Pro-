@@ -31,8 +31,10 @@ $$Q_{\text{Exposed}} = \max\left(0, Q_{\text{BAC}} - (Q_{\text{Actual}} + Q_{\te
 Automated 10-Bucket Budget & P6 / SAP WBS Mapping:
 Automatically generates hierarchical resource cost codes (CostId) and maps priced BOQs directly into the 10 standard cost control buckets and Primavera P6 / SAP WBS structures in hours rather than weeks.
 
-# You can Find & Download the Full Version on this MediaFire Link : 
+# You can find & download the Full Version on this MediaFire Link : 
 https://www.mediafire.com/file/u6q2de0h4g4qilp/CostBasePro-Setup-1.0.0-x64.exe/file
+# You Can Sign Yourself in our Form to get the Activation Key : 
+https://docs.google.com/forms/d/e/1FAIpQLSdrNvnr9KWAs4KhZuII66dn81QC4Xc2L--pXX1ayzb5X6Kqtw/viewform?usp=publish-editor
 
 #⚙️ Core Engineering Architecture
 
