@@ -36,7 +36,7 @@ https://www.mediafire.com/file/u6q2de0h4g4qilp/CostBasePro-Setup-1.0.0-x64.exe/f
 # You Can Sign Yourself in our Form to get the Activation Key : 
 https://docs.google.com/forms/d/e/1FAIpQLSdrNvnr9KWAs4KhZuII66dn81QC4Xc2L--pXX1ayzb5X6Kqtw/viewform?usp=dialog
 
-#⚙️ Core Engineering Architecture
+# Core Engineering Architecture ⚙️
 
 1. Pre-Tender Estimation & AI/OCR Intelligence
 
@@ -182,7 +182,7 @@ Licensing
 
 Cryptographic Machine-Bound Hardware Licensing (license.lic / Activation Keys)
 
-#🚀 Build, Verify & Publish
+# Build, Verify & Publish 🚀
 
 The project supports deterministic Offline Sandbox Builds using the local NuGet cache:
 
@@ -195,7 +195,7 @@ dotnet run --project CostBase_Pro.csproj --no-build -- --verify-all
 # 3. Publish Self-Contained Production Release (win-x64)
 dotnet publish CostBase_Pro.csproj -c Release -r win-x64 --no-restore -p:OfflineBuild=true
 
-#🔒 Proprietary License & Patent Pending Notice
+# Proprietary License & Patent Pending Notice 🔒
 
 Copyright © 2026 Lucid Cost Solutions (Mohammed Mahrous & Mahmoud Mahrous). All Rights Reserved.
 
