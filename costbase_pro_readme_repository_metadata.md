@@ -122,12 +122,11 @@ dotnet publish CostBase_Pro.csproj -c Release -r win-x64 --no-restore -p:Offline
 
 ---
 
-## 💼 Licensing Tiers
 
-* **Professional Plan (Pro):** Tailored for freelance cost engineers, fresh graduates, and boutique technical offices (BOQ pricing, standard breakdown & productivity libraries, indirect cost waterfall, and Excel/PDF export).
-* **Corporate Plan (B2B):** Built for construction contracting companies and engineering consultancies (Includes all Pro features + 10-Bucket Budget & SAP WBS mapping, IPC & Cash Flow forecasting, Cost Control & Variance tracking, and AI-assisted pricing for new items).
-* **Enterprise Deployment:** On-premise setup, custom ERP/SAP integration, dedicated team onboarding, and bespoke historical cost library calibration.
-
+# You can find & download the Full Version on this MediaFire Link : 
+https://www.mediafire.com/file/u6q2de0h4g4qilp/CostBasePro-Setup-1.0.0-x64.exe/file
+# You Can Sign Yourself in our Form to get the Activation Key : 
+https://docs.google.com/forms/d/e/1FAIpQLSdrNvnr9KWAs4KhZuII66dn81QC4Xc2L--pXX1ayzb5X6Kqtw/viewform?usp=dialog
 ---
 
 ## 🔒 Proprietary License & Patent Pending Notice
